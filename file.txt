@@ -17,3 +17,4 @@ repotest-script2-10.09 16
 repotest-script2-10.09 17
 repotest-script2-10.09 18
 repotest-script2-10.09 19
+repotest-script2-10.09 20
