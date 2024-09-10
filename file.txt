@@ -3,3 +3,4 @@ repotest-script2-10.09 2
 repotest-script2-10.09 3
 repotest-script2-10.09 4
 repotest-script2-10.09 5
+repotest-script2-10.09 6
