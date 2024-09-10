@@ -24,3 +24,4 @@ repotest-script-09.09 4
 repotest-script-09.09 5
 repotest-script-09.09 6
 repotest-script-09.09 7
+repotest-script-09.09 8
