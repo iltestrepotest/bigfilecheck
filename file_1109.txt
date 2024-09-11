@@ -5,3 +5,4 @@ repotest-script-11.09 4
 repotest-script-11.09 5
 repotest-script-11.09 6
 repotest-script-11.09 7
+repotest-script-11.09 8
