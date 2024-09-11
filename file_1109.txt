@@ -15,3 +15,4 @@ repotest-script-11.09 14
 repotest-script-11.09 15
 repotest-script-11.09 16
 repotest-script-11.09 17
+repotest-script-11.09 18
