@@ -1,2 +1,3 @@
 repotest-script-11.09 1
 repotest-script-11.09 2
+repotest-script-11.09 3
